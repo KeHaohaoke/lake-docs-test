@@ -4,32 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Silos Connected',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Collect DevOps data across the entire SDLC process and connect data silos
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Out-of-the-box Analysis',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Collect DevOps data across the entire SDLC process and connect data silos
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Highly Flexible',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Flexible framework for data collection and ETL, support customized analysis
       </>
     ),
   },
