@@ -85,7 +85,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             label: 'Community',
             docsPluginId: 'community'
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/merico-dev/lake',
             label: 'GitHub',
@@ -126,10 +125,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/merico-dev/lake',
