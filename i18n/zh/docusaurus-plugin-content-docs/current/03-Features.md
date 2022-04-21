@@ -1,5 +1,5 @@
 ---
-sidebar_position: 05
+sidebar_position: 03
 title: "Features"
 linkTitle: "Features"
 tags: []
