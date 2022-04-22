@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Silos Connected',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('../../static/img/SilosConnected.svg').default,
     description: (
       <>
         Collect DevOps data across the entire SDLC process and connect data silos
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Out-of-the-box Analysis',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('../../static/img/OutoftheboxAnalysis.svg').default,
     description: (
       <>
         Collect DevOps data across the entire SDLC process and connect data silos
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Highly Flexible',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('../../static/img/HighlyFlexible.svg').default,
     description: (
       <>
         Flexible framework for data collection and ETL, support customized analysis
