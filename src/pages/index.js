@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/Overview/WhatIsDevLake">
-            DevLake Tutorial - 5min ⏱️
+            DevLake Intro - 1min ⏱️
           </Link>
         </div>
       </div>

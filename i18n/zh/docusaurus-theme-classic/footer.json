@@ -28,7 +28,7 @@
     "description": "The label of footer link with label=GitHub linking to https://github.com/merico-dev/lake"
   },
   "copyright": {
-    "message": "Copyright © 2022 DevLake@Merico Inc. Built with Docusaurus.",
+    "message": "Copyright © 2022 DevLake@Merico Inc.",
     "description": "The footer copyright"
   }
 }
